@@ -13,16 +13,24 @@ time – To check the time continuously.
 winsound – To play the alarm sound.
 
 💡 Skills Used
+
 Python Programming
+
 GUI Development
+
 Date and Time Handling
+
 Event Handling
+
 Basic Logic and Conditions
 
 ⚙️ How It Works
 Enter the required alarm time.
+
 The program continuously checks the current time.
+
 When the current time matches the alarm time, the alarm sound is played.
+
 The user can stop the alarm when needed.
 
 🎯 Objective
