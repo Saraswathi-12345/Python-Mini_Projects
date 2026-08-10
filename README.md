@@ -5,8 +5,11 @@ This is a simple Alarm Clock project developed using Python. It allows the user 
 
 🛠️ Modules Used
 tkinter – To create the graphical user interface.
+
 datetime – To get the current time.
+
 time – To check the time continuously.
+
 winsound – To play the alarm sound.
 
 💡 Skills Used
